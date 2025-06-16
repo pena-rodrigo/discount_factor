@@ -1,4 +1,4 @@
-Q-Learning Model for Mouse Choice-Delay Task
+# Q-Learning Model for Mouse Choice-Delay Task
 This repository contains a single, self-contained MATLAB script (qlearn_behav_model.m) that
 
 loads a behavioural session from one mouse,
@@ -68,7 +68,7 @@ If you wish to re-fit these parameters to your own data, simply treat them as fr
 
 Citation
 If you use this code in a publication, please cite the repository and the original behavioural paradigm, e.g.,
-“Data and analysis code are available at https://github.com/pena-rodrigo/qlearn_behav_model.”
+“Data and analysis code are available at https://github.com/pena-rodrigo/discount_factor”
 
 License
 MIT License – see LICENSE for details.
