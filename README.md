@@ -22,11 +22,17 @@ Folder / file layout
 
 .
 ├── qlearn_behav_model.m       # main script
+
 ├── data/                   # ← put your .dat files here (or in pwd)
+
 │   ├── 42trialtype1.dat
+
 │   ├── 42responsetype1.dat
+
 │   └── …
+
 └── README.md               # this file
+
 Required data files
 For one recording session the script expects seven ASCII .dat files named as
 
@@ -68,7 +74,7 @@ If you wish to re-fit these parameters to your own data, simply treat them as fr
 
 Citation
 If you use this code in a publication, please cite the repository and the original behavioural paradigm, e.g.,
-“Data and analysis code are available at https://github.com/pena-rodrigo/discount_factor”
+“Data and analysis code are available at https://github.com/pena-rodrigo/discount_factor
 
 License
 MIT License – see LICENSE for details.
